@@ -1,0 +1,8 @@
+# create a ship with 2 bullets in each store and 100% firing
+GT4500,2,0,2,0  
+TORPEDO,SINGLE  # shooting the primary store once
+TORPEDO,SINGLE  # shooting the secodany store once
+TORPEDO,ALL     # shooting both -> all the stores should be empty
+TORPEDO,SINGLE  # trying to shoot the primary with empty store
+TORPEDO,SINGLE  # trying to shoot the secondary with empty store
+TORPEDO,ALL     # trying to shoot both with empty storages

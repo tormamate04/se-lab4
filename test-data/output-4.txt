@@ -1,0 +1,8 @@
+SUCCESS
+SUCCESS
+SUCCESS
+SUCCESS
+Invalid numerical arguments passed: For input string: " 1"
+Invalid numerical arguments passed: For input string: " 1"
+Invalid numerical arguments passed: For input string: "kishajo"
+Invalid numerical arguments passed: For input string: "kishajo"
