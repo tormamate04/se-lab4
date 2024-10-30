@@ -1,0 +1,7 @@
+SUCCESS # making the ship
+SUCCESS # shooting once with primary
+SUCCESS # shooting once with secondary
+SUCCESS # shooting once with both -> emptying storage
+FAIL    # failed to shoot primary
+FAIL    # failed to shoot secondary
+FAIL    # failed to shoot both

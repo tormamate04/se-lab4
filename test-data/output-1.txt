@@ -1,0 +1,3 @@
+SUCCESS     #success when making the ship
+FAIL        #should fail firing
+FAIL        #should fail all the firing

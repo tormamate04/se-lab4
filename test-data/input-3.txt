@@ -1,0 +1,7 @@
+GT4500,2,0,2,0  # creating the ship with 2 shoots in both stores
+TORPEDO,SINGLE  # firing the primary
+TORPEDO,SINGLE  # firing the secondary
+TORPEDO,SINGLE  # switching back to try to shoot the primary again
+TORPEDO,SINGLE  # trying to fire the secondary for the second time
+TORPEDO,SINGLE  # trying to fire the primary with empty store
+TORPEDO,SINGLE  # trying to fire the secondary with empty store

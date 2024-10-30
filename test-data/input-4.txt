@@ -1,0 +1,10 @@
+# creating ships with different numbers
+GT4500,-1,0,1,0
+GT4500,1,2,1,0
+GT4500,1,0,-1,0
+GT4500,1,0,1,2
+#creating ships with wrong inputs
+GT4500, 1,0,1,0
+GT4500,1,0, 1,0
+GT4500,1,kishajo,1,0
+GT4500,1,0,1,kishajo
